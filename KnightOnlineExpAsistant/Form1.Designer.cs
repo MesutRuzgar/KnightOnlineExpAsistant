@@ -59,6 +59,7 @@
             this.tbxGerekenToplamExp.Name = "tbxGerekenToplamExp";
             this.tbxGerekenToplamExp.Size = new System.Drawing.Size(152, 26);
             this.tbxGerekenToplamExp.TabIndex = 1;
+            this.tbxGerekenToplamExp.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.tbxGerekenToplamExp_KeyPress);
             // 
             // tbxGelenExp
             // 
@@ -66,6 +67,7 @@
             this.tbxGelenExp.Name = "tbxGelenExp";
             this.tbxGelenExp.Size = new System.Drawing.Size(152, 26);
             this.tbxGelenExp.TabIndex = 2;
+            this.tbxGelenExp.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.tbxGelenExp_KeyPress);
             // 
             // label2
             // 
@@ -82,6 +84,7 @@
             this.tbxDakikadaKesilenMob.Name = "tbxDakikadaKesilenMob";
             this.tbxDakikadaKesilenMob.Size = new System.Drawing.Size(152, 26);
             this.tbxDakikadaKesilenMob.TabIndex = 3;
+            this.tbxDakikadaKesilenMob.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.tbxDakikadaKesilenMob_KeyPress);
             // 
             // label3
             // 
