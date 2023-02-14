@@ -10,4 +10,4 @@ Oluşturmuş olduğum bu masaüstü uygulaması, Knight Online oyunu içerisinde
 2. https://www.hizliresim.com/8z69pfd
 3. https://www.hizliresim.com/fcbiwlm
 4. https://www.hizliresim.com/lbgwh4p
-
+> Kesilen mob yani canavar sayına virgül eklememin sebebi, oyun içerisinde canavarların öldükten sonra tekrar doğma süreleri her canavar için farklıdır. Bu sebebten mütevellit bazı canavarları uzun süre kestiğimizde aldığımız exp miktarını kesim hızımıza göre dakikaya vurduğumuzda tam sayı çıkmayabiliyor.
